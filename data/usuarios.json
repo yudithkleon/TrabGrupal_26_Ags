@@ -1,0 +1,32 @@
+{
+  "usuarios": [
+    {
+      "url": "http://localhost:4000/usuarios/",
+      "nombre": "John Jairo",
+      "apellido": "Betancur Román",
+      "correo": "david@gmail.com",
+      "id": 5
+    },
+    {
+      "url": "http://localhost:4000/usuarios/",
+      "nombre": "Byron",
+      "apellido": "Martinez",
+      "correo": "Jorge15@gmail.com",
+      "id": 6
+    },
+    {
+      "url": "http://localhost:4000/usuarios/",
+      "nombre": "KIA REPUESTOS RAVE",
+      "apellido": "rave florez",
+      "correo": "kiarepuestos.medellin@gmail.com",
+      "id": 7
+    },
+    {
+      "url": "http://localhost:4000/usuarios/",
+      "nombre": "Yudith",
+      "apellido": "leon",
+      "correo": "yudithkleon@gmail.com",
+      "id": 8
+    }
+  ]
+}
